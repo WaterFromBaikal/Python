@@ -1,5 +1,4 @@
 # 1
-from Stepik.Simple_Collections.list.Task1 import value
 
 print('#1')
 a = {}
